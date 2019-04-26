@@ -1,0 +1,9 @@
+{
+  "merchantid":"test_merchant",
+  "signature":"otdaiDenighi",
+  "login":"testUseR",
+  "password":"1234567890AATg#!",
+  "apiURL":"http://developer.bpay/user-api-v2/",
+  "key":"sdpkf@#123"
+}
+
